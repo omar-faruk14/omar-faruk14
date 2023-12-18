@@ -19,7 +19,7 @@ Technologies used: [CNN, Transfer,Learning, Django, Bootstrap, HTML, CSS, JavaSc
 ## 💻 Work Experience
 
 - Software Engineer at 株式会社イーエムアイ・ラボ
-  - Proficient in Express, Node.js, React.js, and DynamoDB, with extensive experience in AWS services, I specialize in developing robust applications. Skilled in integrating OpenStreet API, Line API, and Leaflet.js for comprehensive mapping solutions, I bring expertise in BLE Bluetooth using Django for project development. My diverse skill set enables me to contribute effectively to innovative projects that leverage these technologies, driving impactful solutions. <br />
+  - Proficiently utilized Express, Node.js, React.js, and DynamoDB to craft robust applications within AWS environments. Experienced in integrating OpenStreet API, Line API, and Leaflet.js for comprehensive mapping solutions. Skilled in BLE Bluetooth using Django for project development. Contributed effectively to innovative projects by leveraging this diverse skill set. <br />
     **Skills:** Openstreetmap API · Leaflet.js · AWS EC2 · AWS RDS · Amazon S3 · AWS Lambda · Aws API Gateway · キントーン · Amazon CloudFront · Amazon Dynamodb · Line Login API · Line messaging API · Integrated Systems · MERN Stack · Django · ble bluetooth
     <br /><br />
 - B-JET (Bangladesh-Japan IT Engineer Training Program)
