@@ -18,11 +18,11 @@ Technologies used: [CNN, Transfer,Learning, Django, Bootstrap, HTML, CSS, JavaSc
 
 ## 💻 Work Experience
 
-- Software Engineer at 株式会社イーエムアイ・ラボ
+- Software Engineer at 株式会社イーエムアイ・ラボ, [May 2023 - Present]
   - Proficiently utilized Express, Node.js, React.js, and DynamoDB to craft robust applications within AWS environments. Experienced in integrating OpenStreet API, Line API, and Leaflet.js for comprehensive mapping solutions. Skilled in BLE Bluetooth using Django for project development. Contributed effectively to innovative projects by leveraging this diverse skill set. <br />
     **Skills:** Openstreetmap API · Leaflet.js · AWS EC2 · AWS RDS · Amazon S3 · AWS Lambda · Aws API Gateway · キントーン · Amazon CloudFront · Amazon Dynamodb · Line Login API · Line messaging API · Integrated Systems · MERN Stack · Django · ble bluetooth
     <br /><br />
-- B-JET (Bangladesh-Japan IT Engineer Training Program)
+- B-JET (Bangladesh-Japan IT Engineer Training Program), [Oct 2022 - Mar 2023]
   - This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language & business culture, IT skills, and Soft skills.B-JET (Bangladesh-Japan IT Engineer Training Program), this training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language & business culture, IT skills, and Soft skills.<br />
     **Skills:** Japanese Language · Software Development Methodologies · Collaborative Problem Solving · Japanese Business Culture · Teamwork · Presentation Skills <br />
     <br /><br />
